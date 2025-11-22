@@ -20,7 +20,7 @@ Kirana Store is an online grocery store application built with the **MERN stack*
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PAL036219/KiranaStore.git
+git clone https://github.com/08niteshh/Ecommerce-Sites
 cd KiranaStore
 cd backend
 npm install
